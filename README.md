@@ -48,6 +48,7 @@ Provision a local Docker container using Terraform as Infrastructure as Code (Ia
 2. Clone this repo:
   
    git clone https://github.com/Adarshshriram/Project3_Terraform.git
+
    cd Project3_Terraform.git
 
 # Initialize Terraform:
