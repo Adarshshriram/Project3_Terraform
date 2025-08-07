@@ -18,6 +18,57 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbe5ecc8-7ffc-4743-8f4a-3a0badb5562f" />
 
+## terraform state list
+
+<img width="745" height="298" alt="image" src="https://github.com/user-attachments/assets/7e723067-de72-4112-9ea3-0df982a7d9bc" />
+
+
+#  Docker Container Provisioning using Terraform
+
+##  Objective
+Provision a local Docker container using Terraform as Infrastructure as Code (IaC).
+
+## Tools Used
+- Terraform
+- Docker
+
+## Files Included
+- `main.tf` – Terraform script to provision Docker container
+- Execution logs/screenshots
+- README file
+
+## Concepts Covered
+- Docker provider in Terraform
+- Creating resources (image, container) via Terraform
+- Terraform commands: `init`, `plan`, `apply`, `destroy`, `state`
+
+## How to Run This Project
+
+1. Install [Terraform](https://developer.hashicorp.com/terraform/downloads) and [Docker](https://www.docker.com/products/docker-desktop).
+2. Clone this repo:
+  
+   git clone https://github.com/Adarshshriram/Project3_Terraform.git
+   cd Project3_Terraform.git
+
+# Initialize Terraform:
+
+ erraform init
+
+# Plan changes:
+
+terraform plan
+
+# Apply configuration:
+
+terraform apply
+
+# Destroy the container:
+
+terraform destroy
+
+
+
+
 
 
 
