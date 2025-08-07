@@ -52,7 +52,7 @@ Provision a local Docker container using Terraform as Infrastructure as Code (Ia
 
 # Initialize Terraform:
 
- erraform init
+ terraform init
 
 # Plan changes:
 
