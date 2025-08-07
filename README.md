@@ -1,12 +1,10 @@
 # Project3_Terraform
 
-## terraform init
+## terraform init & terraform plan
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/717a9807-f14b-493b-b9d3-f91e903386bd" />
 
-## terraform plan
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98471f44-000d-46f0-b8e6-4eb6fa4249e7" />
 
 ## terraform apply
 
